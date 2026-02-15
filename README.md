@@ -1,3 +1,3 @@
-# Mi primer README 
+# Receta de Cheesecake
 
-Este es mi primer readme en el cual practico la generación de documentación
+En esta página web podrás encontrar una receta para preparar un delicioso cheesecake tradicional.
